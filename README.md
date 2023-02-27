@@ -1,10 +1,10 @@
 ## 🧠 facedetect
 
 <div>
-  <img src="https://github.com/codebyemi/facedetect/blob/master/src/assets/1.png" height="350px">
-  <img src="https://github.com/codebyemi/facedetect/blob/master/src/assets/2.png" height="350px">
-  <img src="https://github.com/codebyemi/facedetect/blob/master/src/assets/3.png" height="350px">
-  <img src="https://github.com/codebyemi/facedetect/blob/master/src/assets/4.png" height="350px">
+  <img src="https://github.com/codebyemi/facedetect/blob/main/src/assets/1.png" height="350px">
+  <img src="https://github.com/codebyemi/facedetect/blob/main/src/assets/2.png" height="350px">
+  <img src="https://github.com/codebyemi/facedetect/blob/main/src/assets/3.png" height="350px">
+  <img src="https://github.com/codebyemi/facedetect/blob/main/src/assets/4.png" height="350px">
 </div>
 
 <br></br>
