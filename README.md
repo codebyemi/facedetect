@@ -11,10 +11,10 @@
 
 ## Installation ▶️
 
-1. Clone the repository using `git clone https://github.com/codebyemi/facedetect.git`.
-2. Enter the project directory using `cd facedetect`.
-3. Install the required packages by running `npm install`.
-4. Run the app with `npm start`.
+1. Clone the repository using `git clone https://github.com/codebyemi/facedetect.git`
+2. Enter the project directory using `cd facedetect`
+3. Install the required packages by running `npm install`
+4. Run the app with `npm start`
 
 <br></br>
 
@@ -69,4 +69,4 @@
 
 <br></br>
 
-### [🧠 Try the demo]https://codebyemi.github.io/facedetect)
+### [🧠 Try the demo](https://codebyemi.github.io/facedetect)
